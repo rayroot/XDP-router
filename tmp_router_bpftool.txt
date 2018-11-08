@@ -1,0 +1,4 @@
+map update id 52 key 1 0 00 00 value 1 0 00 00
+map update id 52 key 2 0 00 00 value 2 0 00 00
+map update id 52 key 3 0 00 00 value 3 0 00 00
+map update id 52 key 4 0 00 00 value 4 0 00 00
